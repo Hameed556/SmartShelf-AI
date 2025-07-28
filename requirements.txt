@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+google-cloud-vision
+Pillow
+imagehash
+torch
+torchvision
+faiss-cpu
+clip-anytorch
+python-multipart
+python-dotenv 
